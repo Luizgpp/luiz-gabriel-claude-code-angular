@@ -1,21 +1,21 @@
 {
-  "name": "edmunds-claude-code",
+  "name": "luiz-gabriel-claude-code-angular",
   "owner": {
-    "name": "Edmund",
-    "contact": "github.com/edmund-io"
+    "name": "Luiz Gabriel",
+    "contact": "github.com/luiz-gabriel"
   },
-  "description": "Edmund's curated Claude Code setup for productive development",
+  "description": "Luiz Gabriel's Claude Code setup with full Angular support for productive development",
   "plugins": [
     {
-      "name": "edmunds-claude-code",
+      "name": "luiz-gabriel-claude-code-angular",
       "source": "./",
-      "description": "Personal Claude Code configuration with 14 productivity commands and 11 specialized AI agents for modern web development",
+      "description": "Personal Claude Code configuration with Angular support (v12-20+), 14 productivity commands and 13 specialized AI agents for modern web development",
       "version": "1.0.0",
       "author": {
-        "name": "Edmund",
+        "name": "Luiz Gabriel",
         "email": "[email protected]"
       },
-      "tags": ["productivity", "nextjs", "supabase", "typescript", "react", "development"]
+      "tags": ["productivity", "angular", "nextjs", "supabase", "typescript", "react", "development"]
     }
   ]
 }

@@ -1,4 +1,4 @@
-# Angular Support for edmunds-claude-code
+# Angular Support for luiz-gabriel-claude-code-angular
 
 This plugin now includes comprehensive support for **Angular 12-15** and **Angular 16-20+** development.
 
@@ -264,7 +264,7 @@ The plugin supports migration paths:
 
 ## 📝 Summary
 
-The **edmunds-claude-code** plugin now provides:
+The **luiz-gabriel-claude-code-angular** plugin now provides:
 
 ✅ **7 Angular commands** for code generation
 ✅ **2 specialized agents** for version-specific expertise
@@ -280,7 +280,7 @@ Perfect for teams working with **Angular 12** (legacy) or **Angular 20+** (moder
 
 ## 🚀 Getting Started
 
-1. Make sure the plugin is installed: `/plugin install edmunds-claude-code`
+1. Make sure the plugin is installed: `/plugin install luiz-gabriel-claude-code-angular`
 2. Use Angular commands: `/angular-component-new`, `/angular-service-new`, etc.
 3. Let the architects help: Ask Angular-specific questions and the appropriate agent will be invoked
 4. Follow generated patterns for consistency across your project

@@ -4,18 +4,18 @@
 
 ```bash
 # 1. Create GitHub repo at: https://github.com/new
-# Name: edmunds-claude-code
+# Name: luiz-gabriel-claude-code-angular
 # Visibility: Public
 
 # 2. Push your code
-cd ~/Documents/GitHub/edmunds-claude-code
-git remote add origin https://github.com/edmund-io/edmunds-claude-code.git
+cd ~/Documents/GitHub/luiz-gabriel-claude-code-angular
+git remote add origin https://github.com/luiz-gabriel/luiz-gabriel-claude-code-angular.git
 git push -u origin main
 
 # 3. Share with others
 # Installation commands:
-# /plugin marketplace add edmund-io/edmunds-claude-code
-# /plugin install edmunds-claude-code
+# /plugin marketplace add luiz-gabriel/luiz-gabriel-claude-code-angular
+# /plugin install luiz-gabriel-claude-code-angular
 ```
 
 ## What You Have
@@ -33,29 +33,29 @@ git push -u origin main
 
 ## Repository Location
 
-`~/Documents/GitHub/edmunds-claude-code/`
+`~/Documents/GitHub/luiz-gabriel-claude-code-angular/`
 
 ## Next Steps
 
 1. **Read PUBLISHING.md** - Full step-by-step guide
 2. **Create GitHub Repo** - https://github.com/new
 3. **Push Code** - See commands above
-4. **Test Installation** - `/plugin install edmund-io/edmunds-claude-code`
+4. **Test Installation** - `/plugin install luiz-gabriel/luiz-gabriel-claude-code-angular`
 5. **Share** - Post on social media, submit to marketplaces
 
 ## Installation Commands (for users)
 
 ```bash
 # Step 1: Add marketplace
-/plugin marketplace add edmund-io/edmunds-claude-code
+/plugin marketplace add luiz-gabriel/luiz-gabriel-claude-code-angular
 
 # Step 2: Install plugin
-/plugin install edmunds-claude-code
+/plugin install luiz-gabriel-claude-code-angular
 ```
 
 ## Your Plugin URL (after publishing)
 
-https://github.com/edmund-io/edmunds-claude-code
+https://github.com/luiz-gabriel/luiz-gabriel-claude-code-angular
 
 ## Need Help?
 

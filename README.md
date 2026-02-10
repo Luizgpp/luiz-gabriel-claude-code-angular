@@ -309,8 +309,7 @@ MIT License - See LICENSE file for details
 
 ## 🙏 Credits
 
-Based on [edmunds-claude-code](https://github.com/edmund-io/edmunds-claude-code) by Edmund.
-Enhanced with comprehensive Angular support for both legacy (v12-15) and modern (v16-20+) versions.
+Created by Luiz Gabriel with comprehensive Angular support for both legacy (v12-15) and modern (v16-20+) versions.
 
 ---
 
