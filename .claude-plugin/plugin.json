@@ -25,20 +25,5 @@
       "args": ["-y", "@supabase/mcp-server-supabase"],
       "description": "Supabase database operations and management"
     }
-  },
-  "tags": [
-    "productivity",
-    "nextjs",
-    "supabase",
-    "typescript",
-    "react",
-    "angular",
-    "angular-12",
-    "angular-20",
-    "rxjs",
-    "signals",
-    "api",
-    "development",
-    "mcp"
-  ]
+  }
 }
